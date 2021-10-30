@@ -13,4 +13,4 @@
 
 More info https://github.com/NoRoboto/rn-dji-tello
 
-Happy codding.
+Happy coding.
